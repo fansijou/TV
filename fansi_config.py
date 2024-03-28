@@ -5,12 +5,10 @@ favorite_list = [
     "CCTV-5",
     "CCTV-5+",
     "CCTV-13",
-    "广东体育",
-    "广东卫视",
-    "大湾区卫视",
-    "浙江卫视",
-    "湖南卫视",
+    "TVBS新闻",
+    "凤凰资讯",
     "翡翠台",
+    "东方卫视",
 ]
 favorite_page_num = 6
 default_page_num = 4
