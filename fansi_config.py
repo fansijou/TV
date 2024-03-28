@@ -1,5 +1,5 @@
-source_file = "fansi_demo.txt"
-final_file = "fansi_result.txt"
+source_file = "user_demo.txt"
+final_file = "user_result.txt"
 favorite_list = [
     "CCTV-13",
     "CCTV-5",
