@@ -1,9 +1,6 @@
 source_file = "demo.txt"
 final_file = "result.txt"
 favorite_list = [
-    "广东珠江",
-    "开平综合",
-    "开平生活",
     "CCTV-1",
     "CCTV-5",
     "CCTV-5+",
@@ -21,4 +18,4 @@ urls_limit = 15
 response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 30
-ipv_type = "ipv4"
+ipv_type = "ipv6"
